@@ -1,0 +1,18 @@
+
+
+button {
+    display: block;
+    width: 90%;
+    margin: 1em;
+    background: #ffe45e;
+    text-transform: uppercase;
+}
+
+button:hover {
+    background: #f8ce00;
+    cursor: pointer;
+}
+
+button:active {
+    transform: scale(0.96);
+}
